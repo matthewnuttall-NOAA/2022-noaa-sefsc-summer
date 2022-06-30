@@ -13,7 +13,7 @@ We will meet as a Cohort via Google Meet five times over two months for 1.5 hour
 
 - **Dates: June 30, July 14, 28, August 11, 25** 
 - **Times: June 30, 1:00pm - 2:30pm ET; All other dates 2:00pm - 3:30pm ET**
-- **Location: Remotely, via Zoom**
+- **Location: Remotely, via Google Meet**
 
 Agendas are accessible to Cohort participants in our [Cohort Google Drive Folder](https://drive.google.com/drive/u/1/folders/1TzOVeUSNzoS_fD1IBimm5gFtz2WP4etS); they are also an archive of our live google-docing. Please see <https://openscapes.org/series> to view blank versions of the agendas. 
 
@@ -33,36 +33,26 @@ Link to Google Doc to come.
 Julie & Stefanie - Wednesdays 12:00 - 1:00 ET. Jul 6, 20, Aug 3, 17
 
 
-<!---
 ## Participating teams
 
-These are the teams participating: please add any edits directly (we'll learn how in our GitHub Call!) Take some inspiration from here: https://github.com/Openscapes/2021-noaa-nmfs/blob/main/README.md
+Upcoming: These are the teams participating: please add any edits directly (we'll learn how in our GitHub Call!) Take some inspiration from here: https://github.com/Openscapes/2021-noaa-nmfs/blob/main/README.md
 
 Add:
  - What kind of team you are (cross-divisional) or where you are from (division focusing on...)
  - Links to your program and what you are working on together
- - Desciptions of your potientail projects. Feel free to list them out [1), 2), 3),...] or provide a longer description.
+ - Descriptions of your potential projects. Feel free to list them out [1), 2), 3),...] or provide a longer description.
  - Who is on your team
---->
-
-## Participating teams
-
-These are the teams participating: please edit this repo yourself following our GitHub Clinic!
-
-**Team Name** This team is focused on this and that. This team includes Name (@githubname), Name (@githubname).
-
-**Team Name** This team is focused on this and that. This team includes Name (@githubname), Name (@githubname).
 
 
 ## Openscapes team
 
-**Julie Lowndes** (@jules32), Openscapes Director, NCEAS, UCSB, is leading
+**Julie Lowndes** (@jules32), Openscapes 
 
 **Stefanie Butland** (@stefaniebutland), Openscapes
 
-**Adyan Rios** (@AdyanRios-NOAA), SEFSC, is assisting
+**Adyan Rios** (@AdyanRios-NOAA), SEFSC
 
-**Molly Stevens** (), SEFSC, is assisting
+**Molly Stevens** (), SEFSC
 
 
 ## More about Openscapes and the Champions program:
