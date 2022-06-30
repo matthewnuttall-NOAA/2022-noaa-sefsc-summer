@@ -12,10 +12,10 @@ Welcome to the 2022 NOAA SEFSC Summer Openscapes Champions Cohort! This is a Coh
 We will meet as a Cohort via Google Meet five times over two months for 1.5 hours on five Thursdays starting June 30, 2022:
 
 - **Dates: June 30, July 14, 28, August 11, 25** 
-- **Times: June 30 1:00pm - 2:30pm ET; All other dates 2:00pm - 3:30pm ET**
+- **Times: June 30, 1:00pm - 2:30pm ET; All other dates 2:00pm - 3:30pm ET**
 - **Location: Remotely, via Zoom**
 
-CHECK THIS LINK Agendas are accessible to Cohort participants in our [Cohort Google Drive Folder](https://drive.google.com/drive/folders/1UV_lBdCUonF3E6uW7AEFTHtlv3m_mejf?usp=sharing); they are also an archive of our live google-docing. Please see <https://openscapes.org/series> to view blank versions of the agendas. 
+Agendas are accessible to Cohort participants in our [Cohort Google Drive Folder](https://drive.google.com/drive/u/1/folders/1TzOVeUSNzoS_fD1IBimm5gFtz2WP4etS); they are also an archive of our live google-docing. Please see <https://openscapes.org/series> to view blank versions of the agendas. 
 
 Date | Cohort Call Topics          | Series Chapters |      Seaside Chat Topics
 ----| ------------------|----------------------|--------------------------------
