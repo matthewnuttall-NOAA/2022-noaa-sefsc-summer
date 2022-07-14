@@ -30,5 +30,8 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 ## Your turn
 
 **Click the pencil to edit and make several commits as play around – what else can you change or add?**
+## Hi all, this is Shannon ##
+
+
 
 
