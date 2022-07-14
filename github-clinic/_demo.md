@@ -2,8 +2,6 @@
 
 Working on GitHub.com, we contribute changes through **commits**. Let's create several commits by making small edits to this file, writing a commit message, and committing changes to see them posted nicely online to communicate our work. 
 
-This file is written in Markdown, which formats text. For example, with Markdown:
-
 We can make words **bold** or *italic*.
 
 ## We can make headers.
@@ -13,6 +11,7 @@ We can make lists – *note that lists need a carriage return before list items!
 1. bananas
 2. tamales
 3. cakes
+4. peaches
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
