@@ -8,6 +8,11 @@ We can make words **bold** or *italic*.
 
 ## We can make headers.
 
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
 We can make lists – *note that lists need a carriage return before list items!*
 
 1. bananas
